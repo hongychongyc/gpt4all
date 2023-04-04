@@ -121,6 +121,7 @@ Clone the repo
 
 ```
 git clone --recurse-submodules https://github.com/nomic-ai/gpt4all.git
+cd gpt4all
 git submodule update --init
 ```
 
