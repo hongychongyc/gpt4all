@@ -128,6 +128,8 @@ git submodule update --init
 Setup the environment
 
 ```
+pip install torch
+pip install libaio
 python -m pip install -r requirements.txt
 
 cd transformers
